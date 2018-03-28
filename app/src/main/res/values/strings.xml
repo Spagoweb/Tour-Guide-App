@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_pov">Points of Interest</string>
+
+    <!-- Category name for the vocabulary locations for colors [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary locations for numbers [CHAR LIMIT=20] -->
+    <string name="category_theaters">Theaters</string>
+
+    <!-- Category name for the vocabulary locations for family members [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- POI -->
+    <string name="poi_rocca_title">Villa Pisani "La Rocca"</string>
+    <string name="poi_rocca_desc">Villa Pisani known as ‘La Rocca Pisana’, a Venetian villa built in 1576 by Vincenzo Scamozzi, a student of Andrea Palladio. It stands on the hilltop above the town of Lonigo and is therefore visible from a great distance. The square structure of the house, surmounted by an octagonal dome, gives it an austere purity of the volume, creating an ideal geometric composition.</string>
+
+    <string name="poi_canova_title">Antonio Canova Museum</string>
+    <string name="poi_canova_desc">Possagno is the home of the greatest neoclassical sculptor Antonio Canova (1757 – 1822). Possagno represents the place where you can meet Canova’s culture. That is why the Museum Gipsoteca Antonio Canova opens its doors to the public presenting itself as a “whole” constituted by the museum, the house, a library and an archive with rooms devoted to learners and to the public.</string>
+
+    <string name="poi_berico_title">Monte Berico Basilica</string>
+    <string name="poi_berico_desc">The Church of St. Mary of Mount Berico is a Roman catholic and basilica in Vicenza. The church is a Marian shrine, and stands at the top of a hill which overlooks the city.</string>
+
+    <!-- Theatre -->
+    <string name="olympic_theatre_title">Olympic Theatre of Vicenza</string>
+    <string name="olympic_theatre_desc">The Teatro Olimpico is the first indoor theater in masonry in the world, with interiors made of wood, stucco and plaster.It was constructed by architect Andrea Palladio, between 1580 and 1585, when it was inaugurated.It is included in the UNESCO World Heritage List.</string>
+
+    <string name="city_theater_title">Theatre City of Vicenza</string>
+    <string name="city_theater_desc">The Theatre City of Vicenza is very close to the historical center of the town, close to the ancient walls: can be reached on foot from the station and very easily from the center of Vicenza. It is a modern multi-purpose space with a public vocation designed for entertainment and cultural events and also for events of different nature (professional, public, business).</string>
+
+    <!-- Restaurant -->
+    <string name="restaurant_cardellino_title">Ancient Cardellino Restaurant</string>
+    <string name="restaurant_cardellino_desc">In Bassano del Grappa the restaurant with 150 years of history, values and flavors of tradition, Slow Food and the Confraternity of Bacalà alla Vicentina. Meeting Patty Pravo, Mickey Rourke or Zucchero is not as difficult as one believes: it happens at the Cardellino restaurant in Bassano del Grappa, in the Vicenza area, the favorite restaurant of VIPs.</string>
+
+    <string name="restaurant_benetti_title">Benetti Restaurant</string>
+    <string name="restaurant_benetti_desc">Restaurant Benetti will delight you with a cuisine full of temptations, ranging from simple tastiness of Veneto tradition to exquisite delicacy of seasonal plates. Pasta, desserts and homemade salami crown the genuine quality of our Restaurant. Our garden will enchant you during the summer season, while our private dining rooms will gather you during the cold winter.</string>
+
+    <!-- Hotels -->
+    <string name="hotel_marzio_title">Campo Marzio Hotel</string>
+    <string name="hotel_marzio_desc">Our 4-star hotel situated right in the city centre borders with the Campo Marzo gardens, the largest that can be found in Vicenza. The Hotel offers you different types of comfortable rooms as well as assistance on how to discover the city and its many areas of great beauty. Once you have left the hotel, only a stone’s throw away you can find Piazza dei Signori, the Basilica Palladiana and just a little further away you can find the Teatro Olimpico (Olympic Theatre). You will also be able to use bikes free of charge to go for a ride through the history and culture of Vicenza city centre.</string>
+
+    <string name="hotel_doge_title">Doge Hotel</string>
+    <string name="hotel_doge_desc">Hotel Doge is situated in the San Bortolo district, a quiet green area, close to the historical centre of Vicenza. The area is well served by public transport and there are also some very good restaurants nearby, where to enjoy typical food. In the neighbourhood there is the main town Hospital (at about 300 metres) and only few miles away there are Park Querini and Vicenza’s main artistic attractions like the Olympic Theatre, the palladian Basilica and many more.</string>
+
+    <string name="hotel_michelangelo_title">Villa Michelangelo Hotel</string>
+    <string name="hotel_michelangelo_desc">Designed in the Palladian style, Villa Michelangelo was built in the 18th century as the country house of the aristocratic Tomi family of Vicenza. In its latest incarnation, the villa is an elegant getaway for those in search of tranquillity and relaxation, away from the stresses and strains of urban life. During the last century, the villa changed hands several times, but managed to retain its period charm, as evinced by its original walnut beams and highly polished Venetian seminato (random mosaic) floor, as well as by the manicured grounds that encircle the entire property.</string>
+
+    <string name="hotel_benetti_title">Locanda Benetti</string>
+    <string name="hotel_benetti_desc">Locanda Benetti is just minutes away from the center of town, and from the Internationally famous Fiera of Vicenza. It is easily reached from both Vicenza Ovest Autostrada exit, and from most other major highways. The friendly atmosphere of our hotel is sure to offer you a pleasant stay, whether you are on vacation or business trip in Vicenza. All rooms are modern and tastefully decorated, provided with all comforts both for business people and guests who desire privacy and relax.</string>
+
+</resources>
